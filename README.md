@@ -1,7 +1,6 @@
 # MyShop ![image](https://github.com/RafalGontarski/MyShop/assets/106514250/bcc27b99-934b-4148-9ef7-9b8fb2e49cab)
 
-
-An online store with the most important functionalities and data handling using JDBC.
+The web store application is an innovative solution that enables customers to have convenient and hassle-free online shopping experience.
 
 ![Nagranie z ekranu 2023-05-18 o 15 00 02](https://github.com/RafalGontarski/MyShop/assets/106514250/36d8d053-db4a-4a97-9742-574f3b2f1c7b)
 
